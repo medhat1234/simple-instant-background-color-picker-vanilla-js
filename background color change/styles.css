@@ -1,0 +1,6 @@
+body{
+    text-align: center;
+    background: linear-gradient(90deg, yellow, blue);
+    height: 700px;
+    width: 1000px;
+}
